@@ -1,0 +1,19 @@
+{
+  "name": "graphql-nodejs",
+  "version": "1.0.0",
+  "description": "Introduction to GraphQL in nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinverelst/grapQL-nodejs.git"
+  },
+  "author": "Kevin Verelst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinverelst/grapQL-nodejs/issues"
+  },
+  "homepage": "https://github.com/kevinverelst/grapQL-nodejs#readme"
+}
