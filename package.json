@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/kevinverelst/grapQL-nodejs/issues"
   },
-  "homepage": "https://github.com/kevinverelst/grapQL-nodejs#readme"
+  "homepage": "https://github.com/kevinverelst/grapQL-nodejs#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2",
+    "mongoose": "^4.7.6"
+  }
 }
